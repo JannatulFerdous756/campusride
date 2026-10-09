@@ -1,0 +1,4 @@
+config.local.php
+install.allow
+*.log
+.DS_Store
